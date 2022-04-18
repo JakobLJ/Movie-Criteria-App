@@ -1,0 +1,30 @@
+# Starting compiling UnityEngine.TestRunner.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-dc9e344c37ef208459ed6b4876c33fc0
+# Starting compiling UnityEngine.UI.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-98cd61fc87c8e5640925c4906d3b97ab
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-14ab963b150097142b8ccd70d5f11857
+# Starting compiling Unity.2D.PixelPerfect.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9b87ab6e2b03669498d1c6f526eec49b
+# Starting compiling Unity.Timeline.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b633de8e84a46c14da8dc52e3d4d9b17
+# Starting compiling Unity.TextMeshPro.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-9f3eeed1fc2a7eb41ad659785619bbb6
+# Starting compiling com.unity.multiplayer-hlapi.Runtime.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-56c05bf487ce8d7489ec712e6794124a
+# Starting compiling Unity.Mathematics.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0e40caef08e4a574b9651a538623f96c
+# Starting compiling Unity.2D.IK.Runtime.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d02784e84a12796449482d56c39fab60
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-00d43b37cc028aa43b301a1429642bea
+# Starting compiling Unity.2D.Common.Runtime.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6e155f342023ddf4ba15326fd42991ce
+# Starting compiling Unity.Notifications.Android.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6b9c8793a2013ff4880fac0cca666357
+# Starting compiling Unity.2D.Animation.Runtime.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1b86f2b08a21cdd459b4ceb6748308a5
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cc5e158f2d063674ca1d18c382e1b6e2
+# Starting compiling Assembly-CSharp.dll
+C:\Medialogi\Programmer\2020.3.32f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f7c1aafe6f782c845a5ba8e267cc13fe

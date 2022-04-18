@@ -1,0 +1,4 @@
+#Mon Apr 18 18:31:35 CEST 2022
+base.0=C\:\\Medialogi\\movie criteria\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
